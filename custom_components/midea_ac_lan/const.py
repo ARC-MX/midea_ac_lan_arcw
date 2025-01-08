@@ -1,5 +1,5 @@
 from homeassistant.const import Platform
-DOMAIN = "midea_ac_lan"
+DOMAIN = "midea_ac_lan_arcw"
 COMPONENT = "component"
 DEVICES = "devices"
 CONF_KEY = "key"
