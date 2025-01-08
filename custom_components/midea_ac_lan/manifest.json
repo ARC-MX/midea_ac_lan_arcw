@@ -1,13 +1,13 @@
 {
-  "domain": "midea_ac_lan",
-  "name": "Midea AC LAN",
-  "codeowners": ["@georgezhao2010"],
+  "domain": "midea_ac_lan_arcw",
+  "name": "Midea AC LAN ARCW",
+  "codeowners": ["@ARC-MX"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/georgezhao2010/midea_ac_lan#readme",
+  "documentation": "https://github.com/ARC-MX/midea_ac_lan_arcw#readme",
   "integration_type": "device",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/georgezhao2010/midea_ac_lan/issues",
+  "issue_tracker": "https://github.com/ARC-MX/midea_ac_lan_arcw/issues",
   "requirements": [],
   "version": "v0.3.22"
 }
